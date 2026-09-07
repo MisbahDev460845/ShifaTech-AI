@@ -1,0 +1,6 @@
+{
+  "name": "ShifaTech AI",
+  "description": "Bilingual AI-powered medical triage and healthcare information platform supporting English and Urdu",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
